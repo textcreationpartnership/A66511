@@ -1,0 +1,1717 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speeches of Cap. Walcot, Jo. Rouse, and Will. Hone. One Friday the 20th of July 1683</title>
+            <author>Walcot, Thomas, d. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66511</idno>
+            <idno type="STC">Wing W284A</idno>
+            <idno type="STC">ESTC R219902</idno>
+            <idno type="EEBO-CITATION">99831349</idno>
+            <idno type="PROQUEST">99831349</idno>
+            <idno type="VID">35812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2118:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speeches of Cap. Walcot, Jo. Rouse, and Will. Hone. One Friday the 20th of July 1683</title>
+                  <author>Walcot, Thomas, d. 1683.</author>
+                  <author>Hone, William, d. 1683.</author>
+                  <author>Rouse, John, d. 1683.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>by G. Took and J. Crook, to be sold by Joseph Wild,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35812:1"/>
+            <head>THE SPEECHES <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Cap. <hi>Walcot, Jo. Rouſe.</hi> and <hi>Will. Hone.</hi> one Friday the
+20<hi>th</hi> of <hi>July</hi> 1683.</head>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Aptain <hi>Thomas
+Walcot</hi> being drawn to <hi>Tiburn</hi> in one Hurdle, <hi>John Rouſe</hi>
+and <hi>William Hone</hi> in another, and there put into a Cart, the Reverend
+Dr. <hi>Thomas Cartwright,</hi> Dean
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pon,</hi> and one of His Majeſties Chaplains in
+Ordinary, with Mr. <hi>Smith</hi> the Ordinary <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gate,</hi> began to acquaint
+Captain <hi>Walcot,</hi> That this was the laſt time he had to ſpend
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> World, and therefore deſired
+him to make a good uſe of it, telling him, <hi>that as death
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him Judgment will find
+him;</hi> and earneſtly exhorted him to make an ingenious Diſco<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Confeſſion of what he knew
+touching the Conſpiracy and Treaſons of which he
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> found guilty, and received
+ſentence to die.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Capt.
+<hi>Walcot</hi> replyed, That he had ſome Papers in his Pocket of what he had
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed to ſay in writing, becauſe
+his memory was bad; therefore he deſired they might
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed: out, and he would read
+them.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dr.
+<hi>Cartwright</hi> and the Ordinary ſpake to <hi>Hone</hi> and
+<hi>Rouſe</hi> to the effect before
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ioned, earneſtly deſiring them
+to confeſs the whole of what they knew; inſtancing
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> places of Scripture to them, as
+<hi>Joſhuah</hi>'s advice to <hi>Achan,</hi> &amp;c. <hi>my Son confeſs and
+give <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to God whom you have
+diſhonoured</hi> &amp;c. telling them they would have imbrewed
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands in the blood of a merciful and
+good Prince who had often pardoned and gave
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Acts of Oblivion and indemnity
+to his Subjects; and whoſe Reign hath preſerved the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ty of the Proteſtant Religion
+amongſt us; That we cannot enjoy more than we do en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th other
+good admonitions for them to make cleer diſcoveries of the truth of what
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> knew.</p>
+            <p>Captain <hi>Walcot</hi> in the mean while was prepared to read his
+Speech.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Cartwright</hi> askt him if be could diſcover any more than he had done
+already.</p>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </speaker>
+               <p>I've not in the general. I told the King the thing was laid very
+deep: There was a <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eman with me
+laſt night, I told him what I told the King and that was all<g ref="char:punc">▪</g> I told
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I thought an Act of indulgence
+would be very neceſſary, becauſe he had a great many
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to take Judgment of. I know not
+the particulars of the Deſign but the King hath the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Howard</hi>
+                  <g ref="char:punc">▪</g> Mr.
+<hi>weſt,</hi> and others that know more than I. I was never in Councel
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, nor never with them above
+four, five, or half a dozen times.</p>
+            </sp>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en looking upon his
+Paper, he began his Speech as follows,</p>
+            <sp>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>is great
+concourſe of people do not only come here to ſee me dye, but alſo to hear
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I ſhall ſay; and becauſe
+I would not be reproached; and thought to be an Atheiſt
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I am gone, I have two or three
+words to ſpeak for my Religion. I do believe in
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e perſons, and one God and I
+expect and hope to be ſaved by the Merites and Righ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>neſs of his Son Chriſt Jeſus, without the hope of
+an advantage by any Merits or <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>teousneſs of my own. and I believe that the Scriptures of the Old
+and New Teſtament <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the word of
+God; <hi>that they were not written according to the will of Man but holy men
+of <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> writ them as they were
+inſpired by the holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beleive that
+theſe Scriptures ought to be the Rule of our Faith, and the methode of our
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hipping of God: I beleive that as
+Chriſt is the head of his Church, ſo he is their Law<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, That it is not in the power of any Council or Conclave
+of Cardinals, or power upon <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+whatſoever to ſet up the Precepts and Traditions of men, and to make, them
+of equal <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ty with the word of God.
+I beleive it was not becauſe the Jews rejected, and Cru<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d Chriſt, that he rejected them, but becauſe they
+rejected his Word; which appears by
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Three thouſand that God by
+one Sermon of <hi>Peters</hi> Converted; they being <hi>pricked in their
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and touched in their
+Conſciences</hi> cryed out <hi>Men and Brethren what ſhall we do?</hi> and 
+<pb n="2" facs="tcp:35812:2"/>they were <hi>that day added to the Church.</hi> It was
+certainly becauſe the Jews rejected the Word and Goſpel of Chriſt, that
+<hi>the things were hid from their eyes which belonged to their peace.</hi> It
+is a dreadful thing to reject the Word of God; and it is a dreadful thing to
+live in a ſinful courſe of life, till God withdraws his <hi>Spirit</hi>
+from us: For it is ſaid, <hi>it ſhall not always ſtrive with man Death is
+the wages of ſin,</hi> I beleive had not <hi>Adam</hi> ſinned, he and we
+his poſteri<g ref="char:EOLhyphen"/>ty had not dyed. Death is ſaid to be the <hi>King of
+Terrors,</hi> but it is only ſo to thoſe that are terified with a
+terrifying Conſcience, that have the arrows of the Almighty ſticking in
+them from convictions of great guilt, and ſee no hopes of mercy, have no
+aſſurance of Pardon; but thoſe that are Chriſts, he takes away the
+terror and horror, and ſting of Death, he enables them to ſay with
+<hi>Paul, To me to live is Chriſt, and to die is gain:</hi> he enables not
+only to get <hi>unto</hi> Chriſt, but <hi>into</hi> Chriſt; and ſo they
+have <hi>Communion and Fellowſhip with the Father and the Son,</hi> It is no
+hard matter to get the notions of the promiſes of the Goſpel into our heads
+but unleſs the Lord is pleaſed to apply them to our hearts, we cannot
+believe except We be <hi>in Chriſt as branches in the Vine,</hi> we are not
+Chriſtians indeed. It was the caſe of poor <hi>Francis Spira;</hi> he was
+certainly a knowing man, but notwithſtanding he had not
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith to apply the promiſes.
+Chriſt hath ſaid, <hi>that he that believes in him, though he were dead,
+yet ſhall he live; and he that lives and believes in him, ſhall never
+dye.</hi> So if we be able to apply the promiſes by the Spirit of God, we may
+have comfort through Faith; but then <hi>Faith is the gift of God,</hi> and
+<hi>Faith comes by hearing</hi> the Word of God, and receiving it in the love
+of God.</p>
+               <p>I ſhall not be tedious, Mr. Sheriff, I ſhall be very
+ſhort.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Sheriff.</speaker>
+               <p>take your own time.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot,</speaker>
+               <p>As to the preſent occaſion of my death, I do neither blame
+the Judges, nor the Jury, nor the Kings Councel: I only blame ſome men that
+in reality and in truth were deep<g ref="char:EOLhyphen"/>er concerned, and more engaged than I, that
+came in as Witneſſes againſt me who ſwore me out of my life to ſave
+their own, and who for fear they ſhould not do it effectually; contrived
+that, That I will appeal to you all, whether there be a probability in it or
+not for they ſaid that I made it a ſcruple of Conſcience, to have a hand
+in killing the King or to embrue my hands in his blood, but was ſo generous
+as to undertake the Charging his Guards whilſt others did it and to the end
+another might do it Truly I will appeal to all that know me, whether they
+believe me ſo much an idiot that I ſhould not underſtand it was the
+ſame thing to engage the Kings Guards, whilſt another killed him as to Kill
+him with my own hands. But however by their ſwearing againſt me, they have
+ſecured their own Lives and Eſtates, and made my blood the price of theirs,
+I confeſs I was ſo un<g ref="char:EOLhyphen"/>fortunate and unhappy as to be invited by Colonel
+<hi>Rumſey,</hi> (one of the witneſſes againſt me) to ſome meetings
+where ſome things were diſcourſed of in order to the aſſerting our
+Li<g ref="char:EOLhyphen"/>berties and properties which we looked upon to be violated and invaded But
+it was he and Mr, <hi>Weſt</hi> and ſome gentlemen that are fled who were
+the great promoters of thoſe Meet<g ref="char:EOLhyphen"/>ings I was near a quarter of a year ill of
+the Gout, and during that time Mr: <hi>Weſt</hi> often vi<g ref="char:EOLhyphen"/>ſited me, and
+ſtill his diſcourſe would be, concerning <hi>Lopping the Two Sparks,</hi>
+That was the word he uſed, meaning the King and the Duke; and propoſed it
+might be done at a Play; This was his frequent diſcourſe; for he ſaid,
+Then they would dye in their calling; it was his very Expreſſion. He bought
+Arms to do it with, without any direction of mine; I never ſaw the Armes nor
+I never ſaw the men that were to do it; though they ſaid they had fifty
+imployed to that end. I told ſeveral of them That the Killing the King would
+carry ſuch a blemiſh and ſtain with it, as would deſcend to
+poſterity; that I had Eight Children, that I was loath ſhould be
+blemiſhed with it, and withall, I was confident the Duke of <hi>Monmouth</hi>
+would revenge his Fathers Blood; if it were but to vindicate himſelf from
+having any hand in it. Mr. <hi>Weſt</hi> preſently told me, that the Duke
+of <hi>Monmouth</hi> did not refuſe to give an Engage<g ref="char:EOLhyphen"/>ment, that he would not
+puniſh thoſe that ſhould kill the King.</p>
+               <p>And now I deſire to forgive all the World from the very bottom
+of my heart, and I pray God of his mercy from my heart to forgive them, even
+Mr. <hi>Shepherd,</hi> who delivered me up, who promiſed to carry me into
+<hi>Holland,</hi> but inſtead of that, he brought me <pb n="3" facs="tcp:35812:2"/>into
+the condition wherein I now am. I do deſire with all my heart to forgive the
+Wit<g ref="char:EOLhyphen"/>neſſes, and withal do earneſtly beg that they may be obſerved, that
+ſome remarks may be ſet upon them, whether <hi>their End be Peace,</hi> and
+that <hi>they die the common death of all men.</hi> Certainly, though it be the
+Law of the Land I ought to die, and the King may juſtly and reaſonably put
+me to death for being in thoſe meetings where a War was debated; yet I think
+theſe men are guilty of my Blood, that were as deep in as I, and have
+betrayed me, and taken it away. Then in the next place I beg leave, Mr.
+Sheriff, to ſpeak one ſhort word of Advice to my Friends, that hath been
+often given to me, though I was not ſo fortunate and ſo happy as to take
+it, and that is, That they would neither hear any man ſpeak, nor ſpeak
+themſelves, that which they would not have repeated; for there is no ſuch
+thing as Faith in man to man, whatever there is in man to God: either the Tears
+of a Wife, or a Family of little helpleſs Children, ſomething or other will
+tempt and provoke men to be<g ref="char:EOLhyphen"/>tray one another. When God hath a work to do, he
+will not want Inſtruments, for he can make them; nor will he want a way to do
+it, for he can contrive it, and bring it to paſs. And I do moſt heartily
+deſire, and my earneſt Prayer to the Almighty is, That this may be the
+laſt Blood ſpilt upon this account. I know Acts of Indulgence and Mercy in
+the King would make him much eaſier in his Government, and would make his
+people ſit much eaſier under it; and that the Lord may encline his heart to
+mercy, ought to be the Prayer of every good man. What hath happened, and what
+hath been the preſent occaſion of our Calamity, I ſuppoſe every man
+knows; what provocations have been on the one hand, fears and neceſſities,
+jealouſies and ſufferings of the other, I will not intermeddle with,
+re<g ref="char:EOLhyphen"/>ſolving to uſe my utmoſt endeavour to make that Peace and
+Reconciliation with my God which is impoſſible for me to make with man; and
+to make it my hearty Prayer to the Great God, before whom I am in little time
+to appear, That he would ſtench this iſſue of Blood; and find out ſome
+other way to preſerve theſe Kingdoms in Unity and Peace; to the Honour and
+Glory of his Great Name, and the eternal comfort of his people.</p>
+               <p>One word, Mr. Sheriff, I deſire leave to ſpeak as to
+<hi>Ireland,</hi> becauſe the King preſt it hard upon me, and ſeveral
+people have been with me about <hi>Ireland,</hi> how far <hi>Ireland</hi> was
+concerned in this matter. I do averr here, as in the preſence of God, before
+whom I am now going to appear, That I do not know an Engliſh-man, nor
+Proteſtant in <hi>Ireland</hi> en<g ref="char:EOLhyphen"/>gaged in it. What I did know was only of
+one Scotiſh Gentleman in the North; and the King knows it, but he ſays he
+does not believe it. For they that were concerned, I was never in any of their
+Councils; I never ſaw any of thoſe Lords but the Duke of <hi>Monmouth,</hi>
+and that was I believe above ſix months ago. I never ſaw nor ſpoke with
+one Lord, only my Lord <hi>Howard;</hi> I heard my Lord <hi>Howard</hi> ſay,
+that they did not value <hi>Ireland,</hi> for it muſt follow
+<hi>England.</hi>
+               </p>
+               <p>I have not more to ſay, Mr. Sheriff: But truly you will do an
+act of a great deal of Cha<g ref="char:EOLhyphen"/>rity, if you will prevail with the King for an Act
+of Indulgence and Liberty to his people; I think ſo, and ſo the Lord have
+mercy upon me.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>You blame them for that which is their Vertue, and not their
+Crime; that they have been Witneſſes for the King.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I was not for contriving the death of the King, if you'll
+believe me.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>You blame them for betraying of you in contriving the War, upon
+which the Death of the King muſt have followed, if your Treaſon had gone
+forward, for elſe you could not have defended your ſelf from that Juſtice
+to which he hath brought you; and therefore for you to lay that as a Crime upon
+your Witneſſes, is indeed very ſtrange.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>Sir, I think it was but reaſonable that I ſhould ſuffer
+that is due from Juſtice, and reaſonable by the Law; but theſe men, they
+did not come in againſt me till they did it to ſave themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>Better late than never: a man had better ſave his ſoul and
+body too, than die as now you do, for Crimes that ought to make every good mans
+heart relent; and therefore for your blaming them, it was for that which was
+their duty to do; they <pb n="4" facs="tcp:35812:3"/>have not committed a Crime in that,
+but a very meritorious act.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>They have revealed it with that aggravating circumſtance,
+which I think no rational man will be guilty of.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>That circumſtance which you call aggravating, is no
+aggravation at all; That is rather a mitigation of your Crime, to make them
+believe that you were ten<g ref="char:EOLhyphen"/>derer of the Kings perſon than to ſhoot him when
+he was not armed. But you confeſs you were conſulting this Crime.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I was not to have a hand in the Kings Death.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>But it was propoſed when you were there.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>It was ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>And it was agreed to be done.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>Truly I do not know how far it was agreed; I was there many
+meetings.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwaight.</hi>
+               </speaker>
+               <p>Theſe very meetings you could not but be ſenſible of.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>There were ſeveral meetings wherein the buſineſs of the
+Kings life was never ſpoke of.</p>
+            </sp>
+            <sp>
+               <speaker>Dr <hi>Cartwright.</hi>
+               </speaker>
+               <p>That was agreed in thoſe meetings; but you had a tenderer
+Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I ſay they were for aſſerting our Liberties and
+Properties.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>I would fain have you explain that.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>Truly Sir, ſince you do preſs me to ſpeak, we were under
+general apprehen<g ref="char:EOLhyphen"/>ſions, and ſo were thoſe Lords that are likely to
+ſuffer, as I have heard; they were under general apprehenſions of Popery
+and Slaveries coming in.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>What ſign was there of it? you had no perſecution at all;
+you were allowed by the Law to meet five in a houſe, beſides th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e of the Family. It is true, the
+Conventicles have been diſturbed of late; and I would
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you look upon it as a Judg<g ref="char:EOLhyphen"/>ment
+of God, to bring you to this for forſaking the Chur<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <hi>England:</hi> You have forſa<g ref="char:EOLhyphen"/>ken Communion
+with that Church in that way you were inſtructed from your youth.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I do not come here to diſpute of Religion, but I come here to
+die religiouſly, if it p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſe
+God to enable me.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>I pray God enable you: But I would not have you charge that as a
+Crime upon the Witneſſes, which was their duty.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I can't tell how to excuſe my Witneſſes for aggravating
+things againſt me, and making them worſe than really they were.</p>
+            </sp>
+            <p>Dr. <hi>Cartwright</hi> going to reply;</p>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>Pray, Sir, give me leave; for a man to invite a man to a
+meeting, to importune him to this meeting, to be perpetually ſolliciting him,
+and then to deliver him up to be hanged, as they have done me—</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>It was a Crime to ſollicit you to thoſe meetings; but when
+you were in, it was a duty in you and in them to reveal it; if God had given
+you the grace to re<g ref="char:EOLhyphen"/>veal them, the turn had been theirs which now is yours. And
+whereas you ſay you can<g ref="char:EOLhyphen"/>not excuſe them, that is uncharitable.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I do forgive them, and I deſire with all my heart God would
+forgive them.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>You confeſs you were guilty enough to take away your life.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I was ſo. The ſame meaſure we mete to another, that
+meaſure God will mete to us. Then, Sir, I do leave it to God.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>Cartwright.</hi>
+               </speaker>
+               <p>Then you pray this may be the laſt Blood ſpilt upon this
+account.</p>
+            </sp>
+            <sp>
+               <speaker>Walcot.</speaker>
+               <p>I do ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Cartwright.</speaker>
+               <p>Would not you have Traytors brought to their end? You talk of
+ſpilling Blood, as if it were innocent Blood now ſpilt, when you do
+confeſs and own the guilt. But I ſhall give you no further diſturbance,
+but my Prayers to Almighty God for you, that God would give you mercy.</p>
+            </sp>
+            <p>And then turning to <hi>Hone.</hi>
+            </p>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Mr. <hi>Hone,</hi> give glory to God, and unburthen your
+Conſcience, for you have but a ſhort time to ſtay here.</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>I have nothing further to ſay, but that I have been guilty of
+the Crime.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:35812:3"/>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>You are ſo</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>Yes, I am guilty of this Crime according to the Law of the
+Land.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>I, and according to the Law of God.</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>You ſay according to the Law of the Land, a man may be ſworn
+out of his life by falſe Witneſſes, but you were guilty of conſpiring
+the Death or the King, and raiſing an Inſurrection.</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>Truly I muſt ſay as the Captain well minded, I was drawn in.
+<hi>Thou ſaweſt a Thief, and thou conſentedſt with him:</hi> So I
+ſay, that I was drawn in, I ſaw the Thief, and conſented; I have looked
+upon my ſelf ſince to be the more guilty of Blood, and my cir<g ref="char:EOLhyphen"/>cumſtance
+was to be drawn in, and inſnared; for I never was at any of their Meetings,
+none of their Cabals, but in a pub<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick <hi>Coffee-houſe</hi> or <hi>Tavern,</hi> where they
+diſcourſed the matter of Fact; and I was to meet the <hi>K.</hi> and the
+<hi>D.</hi> of <hi>York;</hi> but I did not know at that time when, or where,
+nor what was my buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>But you were to aſſiſt?</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>Yes, I promiſed that, to aſſiſt.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Do you beg God and the Kings forgiveneſs for it, from the
+bottom of your heart, that you have been guilty of this; <hi>For if the blind
+lead the blind, both ſhall fall into the ditch,</hi> as well he that leads,
+as he that is led, although he that leads may fa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> dee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er:
+There are circumſtances make one mans Crime greater than anothers; The
+greatneſs of theirs does not leſſen yours.</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>I believed, that then I was very near another ſnare; I was
+reſolved to go down into the Countrey, and not meddle in the thing at all,
+and had been in the Countrey, but meeting with <hi>Keeling,</hi> (I freely
+forgive him for whatſoever is done,) he called me, and diſ<g ref="char:EOLhyphen"/>courſing with
+him, I did ſay I <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as for killing
+the King, and ſaving the Duke of <hi>York.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Why was you for <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng
+the Duke of <hi>York?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hone,</speaker>
+               <p>I do not know wh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to
+ſay as to that; there was no reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Dr <hi>C.</hi>
+               </speaker>
+               <p>What was your own private reaſon for killing the King, and
+ſaving the Duke of <hi>York?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>As to that, I think this, that the Duke of <hi>York</hi> did
+openly profeſs himſelf to be a <hi>Roman Catholick,</hi> and I did ſay I
+had rather diſpoſe of the K than the D.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>Had you rather a <hi>Papiſt</hi> ſhould Reign over us, as
+you take him to be, than the King?</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>I do not know what to ſay to that?</p>
+            </sp>
+            <sp>
+               <speaker>D. <hi>C.</hi>
+               </speaker>
+               <p>That does deſerve a reaſon, Mr. <hi>Hone;</hi> you ought to
+give ſome reaſon of that, you cannot but have ſome reaſon; if you had
+had a deſign to kill the Duke, and ſave the King, then it might be to
+prevent Popery; but you ſay the quite contrary. God in Hea<g ref="char:EOLhyphen"/>ven forgive you
+for your murderous deſign.</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>I know as little of this as any poor ſilly man in the World; I
+was fain to gather it, I had it not ſo down right, I was drawn into it,
+however I am now to die; as for the Witneſſes I deſire the Lord to
+forgive them.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>They have not wronged you, they have done their duty.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. <hi>C.</hi>
+               </speaker>
+               <p>
+                  <hi>Rouſe,</hi> What ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>As a man, and a Chriſtian, in the firſt place, as God hath
+made me a Chriſtian through his Grace, that the World may underſtand that I
+do not dye as Captain <hi>Walcot</hi> ſays, an Atheiſt; I do here declare
+in the preſence of God, and this vaſt number of people, what Faith I die
+in: In that very Faith which was once delivered, and in the Belief of that
+Doctrine which the Church of <hi>England</hi> makes profeſſion of, and is
+agreeable to the Word of God, being founded upon the Doctrine of the Prophets
+and Apoſtles, whereof Jeſus Chriſt is the Corner Stone. There have been
+very various opinions concerning me, upon the account of the various
+imployments that I have been exerciſed in, both here and be<g ref="char:EOLhyphen"/>yond Sea: It has
+been my lot to fall under ſuch circumſtances, and to fall under ſuch
+miſrepreſentations and cenſures, upon the account of ſome publick
+imployments that I <pb n="6" facs="tcp:35812:4"/>have been in for the King, and after I
+returned from <hi>Flanders,</hi> upon the account of Di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>banding, it was almoſt morally impoſſible for
+ſuch a one in my capacity, to ſtand right i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the affections and opinions of all people. When I was imployed in
+<hi>Flanders,</hi> in the pay<g ref="char:EOLunhyphen"/>ment of that Army, I was then between two Rocks;
+I will leave it to the judgment of a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſorts of people, you know the Country, I need not
+particulariſe, nor reflect upon opinion<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and the like. But, I having been bred up in <hi>England,</hi> and
+had that education it pleaſed Go<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+to give me, I was not fond of, nor carried off with that, debauchery in thoſe
+times: and ſome times more than once or twice, it was my lot that I was like
+to have been murthered for pleading for, and juſtifying the actions of the
+King of <hi>England:</hi> Since my return, and being imployed under Sir
+<hi>Tho: Player,</hi> and ſome others about diſbanding, there it came t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my Lot, becauſe I could not humour
+ſome Gentlemen, who neither <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eared
+God, nor ho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>oured the King (I will
+not ſay ſo of all for I know ſome were very worthy Gentlemen, th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſcorn'd any of thoſe actions, which ſome would
+attempt. There is one worthy Gent. I ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpeak very honourably of) that ſo they might have their pockets
+full of money, did not va<g ref="char:EOLhyphen"/>lue how the Accounts were ſtated, and at the very
+ſame time I was under many temptati<g ref="char:EOLhyphen"/>ons of hand fulls of Guineas in my hand
+to do ſo and ſo, to cheat the King and becauſe I would not do that I was
+looked upon as a Jeſuit. I did wave all theſe things under tho<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> circumſtances, it hath been my lot
+likewiſe being imployed by Sir <hi>T. P,</hi> and the reſt of the
+Commiſſioners to fall into thoſe Companies and places where my Lord
+<hi>Shaftsbury</hi> and others have been, and have had ſome kind of
+Diſcourſe, which was not Treaſon, but rather a thing that I ever
+abhorred, and declared a deteſtation of: ſince theſe hurly burlys,
+con<g ref="char:EOLhyphen"/>cerning Parliaments going off and coming on did diſcontent the people
+upon one account or another, I confeſs I have been a hearer and have
+underſtood too much of ſome kind of meetings, which I pray God forgive them
+for and eſpecially thoſe that call themſelves Pro<g ref="char:EOLhyphen"/>teſtants being 10000
+tims worſe than any others<g ref="char:punc">▪</g> That ther<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have been ſuch kind of Deſigns &amp; Meetings &amp; Clubbs, I
+have not been ignorant of; God forgive me that I have not been as carefull and
+as diligent and as ready and forward to diſcover it a great while ſince
+That I ever had a hand in it or the leaſt thought or reſolution, or
+intention to appear in it but ra<g ref="char:EOLhyphen"/>ther on the contrary have declared my opinion
+againſt it both in the ſight of God and man as a breach of the Laws of God
+and the Laws of the Land and contrary to our duty who are bound to pray for the
+king and all that are in authority I do declare in the preſence of God I am a
+perfect ſtranger and I thank God my Conſcience is clear I have accquainted
+his Ma<g ref="char:EOLhyphen"/>jeſty in Council and I have had the honour to be admited into his
+Majeſties preſence in private almoſt half an hour on <hi>Saturday</hi>
+was ſeven night, where I was as cleare &amp; above board and as faithfull to
+his Majeſty as I could be in an humble manner, according to my duty; where I
+offered to have ſome time, and place allotted that I might give him a whole
+Scheme of the buſineſs: For there were a great many Gentlemen that had a
+reſpect for me, it was their opinions that I had a generall Knowledg of all
+the Clubbs, and all the Deſigns that ever were ſince the King came in, but
+they were under a miſtake. I gave his Majeſty an account to the beſt of
+my knowledg, and when I had done his Majeſty ſeemed to be pleaſed, and to
+thank me for it; but before I had power to put it in writing and wait upon his
+Ma<g ref="char:EOLhyphen"/>jeſty the Providence of God did ſo order it, the Council thought it fit
+that I ſhould be commited to Priſon where I was ſome days; I have had
+more kindneſs among <hi>Heathens</hi> and <hi>Indians,</hi> I pray God to
+forgive them for it, I had not liberty to ſend to my wife big with Child in
+two days where I was.</p>
+               <p>Sir I ſhall not hold you in ſuſpence, and multiply words
+but what is moſt proper to this occaſion. What I have given to his
+Majeſty in Council and what I have ſpoken to his Majeſty, in private is
+nothing but the naked truth to clear my own Conſcience that I may not go out
+of the world with any thing upon me I wiſh thoſe that call themſelvs
+Proteſ<g ref="char:EOLhyphen"/>tants would diſcharge their duty better to God and the King, than
+either I or the beſt Subject ever did. I have lookt upon't as an obligation
+ever ſince I knew what it was to be a man to carry my ſelf obedient to
+thoſe that, God has ſet over me, eſpecially the King, and thoſe that
+are in Authority; and I have made it <pb n="7" facs="tcp:35812:4"/>my practice to Pray for
+the King, as for my own ſoul, That it has been my lot to be ac<g ref="char:EOLhyphen"/>quainted with
+thoſe vanities of Clubbs, and perſons, no rational man will wonder,
+conſide<g ref="char:EOLhyphen"/>ring the Circumſtances and places I was called to. There is one
+particular Gentleman, Mr. <hi>Sheriff;</hi> I muſt deſire the favour to
+clear my ſelf by ſomething that I took occaſion to ſpeak of
+yeſterday. I did acquaint you Mr. <hi>Sheriff,</hi> with what I had ſpoken
+to the King, how I was interrupted in the further diſcovery of what I had a
+mind to ſay; What was further ſaid yeſterday, it was nothing but the
+naked truth: In the firſt place, as to what was after<g ref="char:EOLhyphen"/>wards diſcourſt of,
+as to ſome particular perſons, namely and particularly Sir <hi>Thomas
+Player</hi> I muſt do juſtice to all the world. That he hath been
+acquainted with the Lord <hi>Shaftsbury</hi> none, here, will wonder; but that
+he hath been very ſhy of his Company ſince he came out of the
+<hi>Tower:</hi> for he told me many times, he never was in his company but
+once, for he did not like ſome things, and ſaw ſome deſigns that he was
+afraid were going on; and thereupon Sir <hi>Thomas Player</hi> was ſo
+ingenuous and honeſt to the King, as to break off<g ref="char:punc">▪</g> I always look'd upon
+him as a very Loyal ſubject, and I muſt declare in the preſence of God
+and all this people, I never heard him ſpeak one diſhonourable word of the
+King, what he may have had with others is beſt known to himſelfe, I have
+been in ſeveral Clubbs eating and drinking, where it has been diſcourſt
+to accommodate the Kings Son, the <hi>D. M.</hi> That there was a deſign to
+ſet up the <hi>D.</hi> of <hi>M.</hi> I will not ſay while the King raigns,
+though ſome extravagant hot-headed men have taken upon them to diſcourſe
+theſe things, but not any worthy man: I know thoſe that were worthy to be
+called by that name, have declar<g ref="char:EOLhyphen"/>ed in my hearing, that in oppoſition to the
+<hi>D.</hi> of <hi>Y.</hi> if the King be ſeiſed, they would ſtand by the
+<hi>D</hi> of <hi>M.</hi> There are others, (I will not give nicknames to any,
+you are wiſe men, and know what I mean by ſpeaking in the general,) that
+were for a Common-wealth, and ſome there were, two or three perſons I
+ſhall be as plain as I can, and I hope you will bear with me ſince it came
+to my lot to come to the knowledg of it, Some were for the <hi>D.</hi> of
+<hi>M.</hi> ſome for a commonwealth, and ſome, but very few, not worth
+naming, were for the <hi>D.</hi> of <hi>Bucks:</hi> But that I think fell at
+laſt between theſe two, being the greater part, as far as I did appre<g ref="char:EOLhyphen"/>hend
+by diſcourſing here and there in the City, which I did very frequently do.
+But the way of theſe Gentlemens diſcourſing theſe things was only one
+at a time, eſpecially a very in<g ref="char:EOLhyphen"/>duſtrious Gentleman that hath made it his
+practice a long time (for it hath been my lot to be acquainted but two months
+and that too long,) which is the Witneſs that comes againſt me, and I pray
+God to forgive him, and I blame him nor for diſcovering me, but for the words
+he ſpake himſelf, by way of inſtigating me to enter into a deſign
+againſt the King<g ref="char:punc">▪</g> they were his own words and not mine, I blame him not
+for diſcovering any thing whereby the King may be ſerved, He did tell me
+ſeveral times there were Clubbs in <hi>London,</hi> but I could never get out
+of him the places where the Clubbs were, Yet I endeavoured what p<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bly I could to come to the bottom of
+that deſign; for my intent was to make a faithful and true diſcovery, that
+I might not go to <hi>Whitehall</hi> or a Juſtice of peace, with an idle
+ſtory, or a ſham: but at laſt I got out of him that <hi>Rich.
+Goodenough</hi> was chiefly inſtrumental. This was a very few days before
+notice was given, this certain perſon <hi>Thomas Lee</hi> the <hi>Dyer,</hi>
+that he was ſworn againſt by one <hi>How:</hi> I asked him the meaning. He
+told me that that <hi>How</hi> was a very Rascal. I asked <hi>Lee</hi> Sir.
+what courſe ſhall be taken? for What by the <hi>Doctors Commons</hi> of the
+one hand, and what by the perſecution of the other, we muſt think of a way
+how to relieve it. There is ſome deſign in hand, ſays <hi>Lee,</hi> don't
+you know; no, ſaid I, I would be glad to hear; There is an invaſion, ſaid
+he, going on, a deſign a gainſt the King and the Government, but that was
+only a fallacy; but he diſcovered afterwards to me that there was a
+reſolution, and a certain number of people about the City and the Nation, to
+make an attack upon the <hi>Tower</hi> of <hi>London,</hi> upon the City of
+<hi>London</hi> upon <hi>Whitehall,</hi> and upon St. <hi>James</hi> I ſaid
+what do you deſign then? have a care that you don't ſhed more innocent
+blood, for the Land is ſtained with blood too much already. No, ſaith he,
+the reſolution as Mr. <hi>Goodenough</hi> ſaith, is not to ſpill a drop
+of blood, but only to ſecure the Kings perſon, that the papiſts do not
+kill him, and then ſaith he we will deal with the <hi>D.</hi> of <hi>Y.</hi>
+as we pleaſe. They were his own words to the beſt of my remembrance.
+Afterwards this Gentleman was ſworn againſt by one Mr. <hi>Keeling</hi> in
+<hi>Eaſt-Smithfield,</hi> ſaith <pb n="8" facs="tcp:35812:5"/>he, he's a Rogue and a
+Dog, and I have ſeen him but once theſe nine Months, and I had no
+diſcourſe but only drunk a glaſs of drink which proves ſince to the
+contrary. Being then in Company at the <hi>Kingshead Tavern</hi> in
+<hi>Swithens-Ally</hi> near the <hi>Exchange,</hi> news was brought he was
+ſworn againſt, he did not know what to do, but found out a place near
+<hi>London-wall,</hi> and deſired me to go to one or two about the matter, he
+knew not how to obſcure himſelf, his houſe was beſet. Meſſengers
+after him, and likewiſe a kind of Judgment or Ex<g ref="char:EOLhyphen"/>ecution; how to put both
+ends together he knew not. I told him, if he would I had a bed, he might go to
+my houſe. I never heard a word from <hi>Rich: Goodenough</hi> one way nor
+ano<g ref="char:EOLhyphen"/>ther of any deſign againſt the K. and the Government, whom I have known
+this ſeven years only this <hi>Lee</hi> told me, his hand was as deep as any
+other. Its true this Gentleman comes and ſwears againſt me, that I ſhould
+be the only perſon to ingage in taking the <hi>Tower</hi> of
+<hi>Lon<g ref="char:EOLhyphen"/>don,</hi> Sir <hi>John</hi> you know very well in what capacity I have
+been, and how very uncapable I was in my perſon to take the <hi>Tower</hi> of
+<hi>London.</hi> I ſpeak in the preſence of God, before whom I am to appear
+in a few minutes, I never had any ſuch thought, never had any ſuch
+deſire, never conſulted <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny perſons of Quality, never
+diſcourſed of any Arms in order to it, but only this I was ſaying. This
+fellow being ſet on (and I think a more proper per<g ref="char:EOLhyphen"/>ſon than any man in the
+world) for that he was a little low in the world, he was under a temptation of
+being thrown out by an <hi>Anabaptiſtical Church,</hi> for ſome kind of
+failings, he was under a temptation to make himſelf ſomebody, therefore he
+did cloſe with Mr. <hi>Goode<g ref="char:EOLhyphen"/>nough</hi> and ſome others; and when the
+firſt Proclamation came forth, he himſelf told me, I never knew it before,
+that <hi>Rumſey</hi> Captain <hi>Walcot, Nelthrop</hi> and
+<hi>Goodenough</hi> and <hi>Weſt</hi> were concerned in this deſign, he was
+the man told me: and when the ſecond Pro<g ref="char:EOLhyphen"/>clamation came out, then he
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould tell me of thoſe too; I told
+him he was a wretch he had not diſcovered it be<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mes, as to his ſwearing againſt me for which God
+forgive him, that I had a hand in taking the <hi>Tower</hi> of <hi>London,</hi>
+the thing is this. He knew I was intimately acquainted with a certain Captain,
+one <hi>Blage,</hi> who was my ſevant, 21 years ago in <hi>Virginia;</hi> he
+hath been a very faithfull and honeſt ſervant, I believe to his Majeſty
+for theſe 15 years, particulary five years in three of his Majeſties Men of
+War. I know very well the man is of ſuch a principle that he abhors to ingage
+in any wicked deſign. But only <hi>Lee</hi> diſcourſing at random about
+taking the <hi>Tower</hi> Captain <hi>Blage</hi> gave this anſwer, (for he is
+a very jocular man<g ref="char:punc">▪</g>) if I were of a mind to take it, were it for the
+ſervice of the King, if there were an enemy comming in, ſaith he, I would
+with ſix Ships well manned and armed with Guns undertake to take the
+<hi>Tower:</hi> upon what account he ſaid it, I don't know, but I believe in
+my Conſcience he had no more deſign to put ſuch a thing in practice, than
+I have to cut my own throat at preſent; Captain <hi>Blage</hi> had heard
+theſe diſcourſes <hi>pro</hi> and <hi>con,</hi> ſaith he 2 or 300 men
+would do it, it's weak in ſuch a place, I wonder his Majeſty dos not make
+it ſtronger. Now when he came to ſwear as ſoon as he was taken up, he
+took occaſion to ſwear againſt me, all the diſcourſe he uſed in
+preſſing me to under take this deſign.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriff Rich.</speaker>
+               <p>Pray if you have any thing that was not told in Court,
+Diſcover it, but you need not go over that which was in Court.</p>
+            </sp>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>Mr. Sheriff, I have nothing at all to ſay, either to blame the
+Judges, or the Jury, or the Witneſs themſelves, the greateſt of all. I
+thank God I was not any way to have had any hand in it: but the very words
+themſelves that came out of his mouth he makes me the Author of, but I freely
+forgive him as I deſire God would forgive me though he did tell me
+poſitively there were five hundred Arms to be brought out of the Countrey. I
+heard of ſuch a thing, I confeſs, here and there but could never know the
+Authors of it, nor the Clubbs where it was diſcourſed. it was lately that
+he told me, <hi>Goodenough</hi> told him, That the King was to be taken off as
+he came from <hi>Windſor<g ref="char:punc">▪</g>
+                  </hi> That there was ſeveral things to be
+done in order to it, That they wanted a place of meeting and ſome thought of
+<hi>Salisbury-Plain,</hi> and ſome of <hi>Black Heath</hi> but the moſt
+convenient place pitched upon was <hi>Black-Heath<g ref="char:punc">▪</g>
+                  </hi> They were
+diſcourſing how to gather the People together; Some were for comu<g ref="char:EOLhyphen"/>nicating
+it privatly, others for a B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll. They
+asked my Thoughts, I ſaid the beſt way will be <pb n="9" facs="tcp:35812:5"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you throw up a Silver Ball, to get
+the people together: for my deſign was to get what
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could out of them. Thereupon he
+went to Mr. <hi>Goodenough,</hi> and diſcours'd him and told
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m, that my Opinion was, to throw
+up a Silver Ball and declare, all thoſe that will come
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d drink a Bowl of Punch, ſhall
+be welcome, and that by this means they would have
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>thered thirty or forty thouſand
+men in two or three days time, which otherwiſe would
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave been a fortnight a doing; but
+for himſelf, I will not blame him; nor lay any
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing to his charge of which he is
+not guilty. I muſt needs give him his due. I do not
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emember that ever he inſiſted
+upon ſhedding of Blood, but that he hath diſcourſed in very
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pprobrious terms and baſe
+Language of the Duke of <hi>Yorke;</hi> by calling him Rogue, and Dog
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſuch things: and that <hi>We
+will do his work:</hi> That is true. And, that after the King's de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſe, the Duke of <hi>Monmouth,</hi>
+having a Vogue with the People, muſt of neceſſity ſucceed; I cannot
+tell what I can ſay more as to that; that is the chief thing I have to ſay,
+if I have not forgot any thing.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Sheriff Rich.</speaker>
+               <p>Mr. <hi>Rouſe,</hi> you would do well to na<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> thoſe Perſons that were with you
+in that Conſultation.</p>
+            </sp>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>There was no Conſultation at all, Sir That I had was from this
+<hi>Thomas Lee's</hi> mouth himſelf, That there were five hundred Arms to be
+brought in; That he had it from <hi>Richard Goodenough,</hi> and
+<hi>Nelthrop,</hi> and Mr. <hi>Weſt,</hi> and that Mr. <hi>Weſt</hi>
+particularly knew from whom theſe Arms were to come, for he gave me a hint
+that part of the Arms were brought by Mr. <hi>Weſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Sheriff Rich.</hi>
+               </speaker>
+               <p>Who propoſed the way of the Ball?</p>
+            </sp>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>Sir, he was ſaying, there was ſeveral propoſitions made in
+the Club where <hi>Good<g ref="char:EOLhyphen"/>enough</hi> was, and ſome thought of one way and
+ſome another, but they could not find out a proper way; Saith he, what do you
+think? ſaid I, if the People meet together they may throw up a Ball, juſt
+in that careleſs way, I ſaid ſo. So he came to me afterwards and ſaid,
+that he had diſcourſed with Mr. <hi>Goodenough,</hi> and Mr.
+<hi>Goodenough</hi> told him, that there was forty thouſand pounds in Bank,
+and if ſuch a Ball coſt thirty or forty pound, it mattered not, to carry on
+ſuch a Deſign as that was.</p>
+            </sp>
+            <p>Here Captain <hi>Walcot</hi> ſpake.</p>
+            <sp>
+               <speaker>Captain Walcot.</speaker>
+               <p>Sir, I deſire you to take notice of this, among other things,
+that ſo far as I ever heard of this buſineſs, it is of no longer a date
+than <hi>Auguſt</hi> or <hi>September</hi> laſt. I would not have this
+conſequence of it, ſo as to ſtifle the Popiſh Plot.</p>
+            </sp>
+            <sp>
+               <speaker>Mr, <hi>Sheriff.</hi>
+               </speaker>
+               <p>Do you know any thing of the Popiſh Plot that hath not yet
+been diſcover<g ref="char:EOLhyphen"/>ed.</p>
+            </sp>
+            <sp>
+               <speaker>Capt. Walcot.</speaker>
+               <p>No Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Hone.</speaker>
+               <p>I had but the knowledge in <hi>March</hi> laſt of this
+buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Cap. Wal.</speaker>
+               <p>I do not know nor ever heard, that it was older than
+<hi>Auguſt</hi> or <hi>September</hi> laſt.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Sheriff.</speaker>
+               <p>Ordinary, do your Office.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Ordinary</hi> to <hi>Walcot.</hi>
+               </speaker>
+               <p>have you fully diſcharged yo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> conſcience</p>
+            </sp>
+            <sp>
+               <speaker>Cap. Wal.</speaker>
+               <p>I have</p>
+            </sp>
+            <p>But it being ſaid that <hi>Rouſe</hi> was interrupted,</p>
+            <sp>
+               <speaker>Mr. Sheriff North.</speaker>
+               <p>If you have any thing to ſay, Mr <hi>Rouſe,</hi> go on, but
+do not make Repe<g ref="char:EOLhyphen"/>titions</p>
+            </sp>
+            <p>Who pulled his paper out of his pocket and looked on it.</p>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>He declared further, Mr Sheriff, That when once the thing come
+ſo far that the Tower and City was taken and ſo many men gathered together,
+they would quickly increaſe and the method was, to go to <hi>Whitehall</hi>
+with Swords in their hands, and to demand Privi<g ref="char:EOLhyphen"/>ledges and Liberties, not to
+take away the Kings Life, but only let the D. of Y look to it: for he was
+reſolved upon it that he ſhould not ſucceed the King.</p>
+            </sp>
+            <p>Then he delivers another Paper, being his Petition to the King,
+and ſome more Notes in Short-hand.</p>
+            <sp>
+               <speaker>Ordinary.</speaker>
+               <p>Have you fully ſatisfied your Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>I have Sir a Word or two to ſpeake to the People. I have
+diſcharged my conſcience as to any thing as to what I was acquainted with.
+It had been happy for me if I had not heard of it; but that I had a hand in it
+I thank God I am free.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>You had a hand in, the concealing,</p>
+            </sp>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>That I had.</p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>And in maintaining the Correſpondency without diſcovering
+it; and you do dimi<g ref="char:EOLhyphen"/>niſh your Crime.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:35812:6"/>
+               <speaker>Rouſe.</speaker>
+               <p>No Sir, I don't deſire it. Mr, Sheriff, I do freely
+acknowledge and confeſs that it is j<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in God in the firſt place, and righteous and juſt in the King,
+that I die; and that I die juſt<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+for concealing it. I would lay no blame upon the King nor any other Perſon in
+the Wor<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I did not conceale it upon
+any Account to his Majeſty's Prejudice nor any Man in the Nati<g ref="char:EOLunhyphen"/>on; and I hope
+God will give more Grace to thoſe Perſons that do ſucceed, I beg a
+Wor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or two I had almoſt forgot;
+as a man and as a Chriſtian, that it is a thing of ſuch evil Con<g ref="char:EOLunhyphen"/>ſequence
+I have found it by bitter Experience how for ſuch and ſuch publick places
+to b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> viſited eſpecially, by
+thoſe that are profeſſors of the Proteſtant Religion and particularly
+Coffee-Houſes, where it is very well known too much time is ſpent, and
+Families an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Wives, and Children,
+ſuffer too much: I pray God the People may take notice of it and la<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it to Heart that ſpend their time
+ſo, thinking it is but a penny and a penny; and ſo diſcourſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of State-Affairs as if ſo be they
+were Gods Counſellors in the Government of the World, ru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ning from the Coffee-Houſe to the Tavern and from the
+Tavern to the Coffee-Houſe, which hath been the Debauchery of this Age; and
+to bring them into this <hi>Dilemma</hi> to diſcourſe of thoſe Things
+neither pleaſing to God nor the King, nor themſelves, but their prejudice.
+Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> profanation of the Sabbath-day
+is commonly diſcourſt of in this place; God forgive me for not obſerving
+it as I ſhould. I pray God thoſe that follow me may be more careful of
+thei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Duty to God and man, for the
+good of themſelves, their ſouls, and their families; thoſe tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are young eſpecially and coming up;
+that they may chiefly mind their Concerns for Eternity, and that they would pay
+their Duty and Homage to the King and thoſe that God has ſet ove<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, and not neglect that great
+Command to pray for the King and all that are in Au<g ref="char:EOLunhyphen"/>thority.</p>
+            </sp>
+            <p>Being asked if they had any thing more to ſay, they ſaid No
+Mr. <hi>Ordinary</hi> then prayed with them and ſung a Pſalm; and then they
+deſired to Pray themſelves; which was granted.</p>
+            <sp>
+               <q> 
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>Captain Walcot Prayer</head>
+                           <p>O Lord our God, Thou art the God of preſent help in
+time of trouble, a God, that haſt promiſed to be with thy people, in the
+Fire and in the water. O Lord, we pray thee, that thou wilt af<g ref="char:EOLhyphen"/>ford thy
+preſence to thy poor ſuffering Servants at this time, that thou wilt enable
+us to pray with faith, to truſt in thee, to be in expectation and hope of
+Mercy from thee. O Lord, thy Ser<g ref="char:EOLhyphen"/>vant that ſpeaketh doth confeſs, that the
+Iniquities at his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eels have
+juſtly overtaken him, that juſt and righteous art thou in all thy
+Judgments, that he hath reaſon to bear thy Indignation be<g ref="char:EOLhyphen"/>cauſe he hath
+ſinned O Lord, we beg, even for thy Son Chriſt Jeſus's ſake, that our
+ſins may not be brought to our remembrance in order to our deſpondency or
+diſcouragement, or our deſpairing in thy Mercy, but rather, O Lord in order
+to an aſſurance that our great God hath pardoned and forgiven them in the
+Blood of his Son. O do thou bath each of our Souls in that Fountain ſet open
+for ſin and for <g ref="char:V">Ʋ</g>ncleannes. Give us, O Lord, inward Spiritual ſtrength
+from thy ſelf, and give us cauſe to bleſs thy name for inward
+ſupporting Graces, for inward aſſiſtances, O let us find an increaſe
+of ſpiritual ſtrength, let us be aſſured that our ſins are done away,
+and let us alſo be aſſured that our names are written in the Book of
+Life, and let it be ſuch an aſſurance as may be matter of joy and
+re<g ref="char:EOLhyphen"/>joycing to our Souls. O do thou enable every one of us, from the inward
+evidence of thy ſpirit, to ſay with thy Servant <hi>Job</hi> That we know
+and are aſſured that our Redeemer lives. O do thou give us ſuch an
+aſſurance of an Intereſt in thee, that we may be inabled in deed, in
+reality, and in truth, to ſay, that we have run our race, and we have
+finiſhed our courſe with Joy. O let us now receive the fruit of thoſe
+many Petitions that we have put up unto the. O let us now find the Spirit
+influencing our hearts to a yielding patience, and a thorow ſubjection to the
+will of God. let us find thy Spirit aſſuring us that we are thine, O let us
+have ſtronger Evidences of thy Love ſtronger Teſtimonies of thy
+Affection. O give us ſome inward Taſtes of thoſe heavenly Joys that we
+hope through the Mercy of Jeſus Chriſt in a little time to have a more full
+Fruition of. O Lord do thou ſpeak peace to every one of our Conſciences;
+enable us to take hold of thy Strength that thou mayſt make peace with us,
+and let us not be diſcouraged, O Lord, ſince we have a High-Prieſt that
+can be touched with our Infirmities. let us with Boldneſs have acceſs to
+the Throne of Grace, that we may obtain Mercy and grace to help in time of
+need. O take away the ſting and Terror that is in Death in any one of us, by
+aſſuring us of our Intereſt in thee, by aſſuring us that our names
+are recorded in the Book of Life; tho we lye under a Sentence of Death from
+Man, we beg that we may have a Sentence of Life eternal from our God; and tho
+we meet thee, O Lord in a Field of Blood, we beg that thou wilt come to meet
+with us in a Field of Mercy O Lord Ex<g ref="char:EOLhyphen"/>tend <pb n="11" facs="tcp:35812:6"/>thy mercy, than
+Lord whoſe Compaſſions faileth not, cauſe the Bowels of thy tender Pity
+to yearn with Compaſſion towards us: enable every one of us, O Lord, to die
+believing in Jeſus Chriſt to die hoping in his. Mercy to die, relying upon
+him for Juſtification for Sanctification, and for Adoption. O Lord though we
+have been Prodigals, we deſire to return to our Fathers Houſe where there
+is Bread enough. O enable us to come unto thee as Children to their Parents. O
+let our Prayers be offe'rd with ſo much Fervour in Chriſt Jeſus, that
+thou may'ſt think it reaſonable to aſſure us of thy love, O let the
+Interceſſion of Jeſus Chriſt be accepted. O Lord we beg that he may be
+our advocate: if our advocate be our Judge, certainly we cannot miſcarry O
+let Jeſus Chriſt be the hope of every oe of our Souls; and Lord let not our
+hope be like that of the Hypocrite, but let our Faith be built upon the Rock of
+Ages; and let us not fail from the apprehenſion of Affliction and
+Puniſhment from men. Yet O Lord do thou ſo order our hearts and our Spirits
+aright: that thou may'ſt be the Lot of our inheritance and our Portion for
+ever O do thou intereſt us in thy ſelf; Lord carry on thy own Work; We
+deſire to come unto thee that we may have life. Lord p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>t to thy helping Hand, Lord teach us truly to leave no
+Sin unrepented of in any one of our Hearts And O Lord, we beg that with us thou
+wilt give us leave to recommend unto thy Care our poor Wives and, Children:
+Thou haſt promiſed to be the Father of the Fatherleſs and the Husband of
+the Widdow; and thou haſt commanded us to caſt the care of them upon thee O
+do thou make Proviſion for them, deal kindly with them, imprint thy own image
+upon them, and enable them to bear this ſevere ſtrocke with Patience. O
+Lord, ſtand by and ſupport them; let their Ways be found ſo pleaſing
+and acceptable unto thee, that thou mayſt think it reaſonable to make all
+their Enemies at Peace. Lord intereſt them in thy Love, and do thou favour
+them with thy Mercies and loving Kindneſſes. O Lord, we alſo beſeech
+thee in the behalf of theſe poor Kingdoms where<g ref="char:EOLhyphen"/>in we are, that thou wilt be
+merciful to them, prevent Diviſions among them, heal all their Breach<g ref="char:EOLhyphen"/>es,
+compoſe their Differences make all that are thine of one Heart and Mind in
+the things of our God. And Lord if it be thy Will, do thou rule in the Heart of
+the King, that he may rule and reign for thee, and for the good of thy Church
+and people. Lord favour us with thy mercy, aſſure us of thy love, ſtand
+by us in the difficult hour, take us into thine own Care, cauſe thy Angels to
+attend us, to convey our Souls as ſoon as they are divided from our Bodies,
+into <hi>Abraham</hi>'s Bo<g ref="char:EOLhyphen"/>ſom, into the Paradice of our God. And Lord we beg
+that thou wilt be with us, with thy extra<g ref="char:EOLhyphen"/>ordinary Preſence, helping us to
+truſt in thee, doing for us beyond what our narrow Hearts are able to ask or
+think. All which we beg for the ſake of thy Son Jeſus Chriſt, in whom, O
+Lord this little time do thou give us Hearts to give thee all Glory, Honour and
+praiſe, now and for ever<g ref="char:EOLhyphen"/>more Amen. <hi>Sweet Jeſus Amen;</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <q> 
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>HONE's Prayer.</head>
+                           <p>GLorious Lord God,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>hou art the God of the whole
+Creation<g ref="char:punc">▪</g> and the God that created the Heavens and the Earth in ſix
+days; by thy power we ſtand here before thee: Lord help us to be looking up
+unto Jeſus Chriſt, who is exalted to be a Prince and a Saviour to give
+Repentance to <hi>Iſrael,</hi> and Re<g ref="char:EOLhyphen"/>miſſion of ſins: Now Lord; for
+thy mercies ſake we would be helped to ſay, That Power that r<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>d up Chriſt from the dead, that is
+able to raiſe up our poor Souls before thee from Death to Life. O Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d for thy mercies ſake waſh all our Souls in the
+Blood of Ieſus Chriſt, <hi>which ſpeaketh better things than that of
+Ab<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </hi> and Lord, for thy mercies
+ſake pardon a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> our ſins, from
+our firſt, our Original ſins, of Sabbath-breaking and our ſins of
+Tranſgreſſion, and the ſin for which we are condemned; O Lord pardon
+it, and let us not, go out of the World with one ſin hid in our Souls. For
+thy mercies ſake pardon all our ſins; Lord do thou preſerve this Nation,
+and put it into the heart of the King to be mercifull, and to rule in truth and
+Righteouſneſs. And for thy mercies ſake, rule the Affairs of this Nation,
+and help to <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> and govern all
+things for the government of our Souls and our Spirits, for thy mercies ſake,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nd help us that with joy we may be
+received into Glory, into the eternal Habitations: for Chriſt is ſent into
+the world to that purpoſe to ſave ſinners, of whom we are chief, And,
+Lord, for thy mercies ſake, let me have a true belief in Jeſus Chriſt
+aright, to be Looking up to him for Life and for Salvation. Oh that we might
+Periſh if we periſh, and be found doing thy will to the utmoſt of out
+power, Lord accept of us, and help us and be with us this litle time we ſhall
+be in this world, all which we beg for the ſake of our Lord Jeſus Chriſt
+to whom be Glory with the Kingdom both now and for evermore.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <q> 
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>Mr. ROUS's Prayer</head>
+                           <p>O Lord our God, who art nearer to each and every one of
+us, than we are to our ſelves: It is not all the Confeſſions to men in
+the world; were it confeſſed by the Tongues of Angels, thoſe glorious
+Spirits above, that can avail any thing with the great God, againſt whom we
+have ſinned, or that can proc<g ref="char:EOLhyphen"/>cure <pb n="12" facs="tcp:35812:7"/>pardon for the leaſt
+tranſgreſſion which dele<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>es
+eternal wrath. And therefore for the ſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s that <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> have been
+guilty of, either againſt the firſt or the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>cond Table, either againſt God
+as our Creator, C<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> as our Redeemer,
+or the Holy and bleſſed Spirit a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> our Sanctifier, the ſins that we have committed ag<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> thy Holy Church and that ſaith that
+I hope we die in the belief of, the ſins that we have been guilty of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>gainſt our Neighbours, upon one
+account and another, the ſins that we have been guilty of againſt our
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>vernours and Rulers, to whom thou
+haſt obliged us under manifold obligations both as men
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Chriſtians, the ſins that
+we have been guilty of in our ſeveral places, Relations and Capacities
+whatſoev<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> whatever have been
+their Circumſtances and their Aggravations, the leaſt whereof deſerves
+everla<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> death, without the Merits
+of Jeſus; for all thoſe greater or leſſer ſins, whether that original
+ſin <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> brought into the world
+with us, that ſource and fountain, and foundations of all other ſins,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>hoſe act<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> ſins and tranſgreſſions againſt any of
+thoſe that thou haſt ſet over us, or thoſe that have been equal w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> us thoſe relation ſins, as Husband
+and wife, as Maſter and ſervant, in every relation and Capacity; I
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> forgive them, and waſh them
+away in the blood of the Lamb of God, that ſtands at the right
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>and of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Majeſty on high. And
+becauſe we have no worthineſs of our own to recommend us to thee, therefore
+we <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> thee for thy Sons ſake to
+fetch arguments from thy ſelf. Our righteouſneſs is as filthy rags and
+the <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> of us are as a menſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rous cloath. Fetch Arguments from the
+riches of thy Grace, from the goodneſs of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> nature, from the multitude of
+thy mercies, from the blood of thy Son, from that bleſſed; eternal in
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>ceſſion that we hope he is
+making for us, and for all that belong to the election of Grace, and ſhall
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> brought) to glory, Remember thy
+Churches, <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> the fulfiling of thy
+promiſes, the accompliſhing <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+thy prophe<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>es through the world the
+downfal of the man of ſin, and the deſtruction of all thy
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Churches implacable enemies,
+Lord haſten the day of the calling the Iews, and the fulneſs of the G<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>tiles: put an end to Wars and Rumours
+of Wars let the deſire of all Nations come. Dwell in th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> three Nations, be a wall of fir<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> round about them; Prevent any kind of Inſurrection at
+home, all <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>ner of Invaſion from
+abroad; let thoſe that tarry behind enjoy peace and truth, and
+righteouſneſs d<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> in and reign
+in the heart of the King, Lord bleſs and proſper him in his perſon, give
+him a l<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>g, a
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>perous, and an happy Reign. Good
+Father we pray thee, let him live here with a flouriſhing Crown
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> on his head till thou in thy
+due time ſhalt receive him to an eternal, Crown hereafter. Bleſs him in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Royal Family and Relations in
+his Royal Brother. Bleſs him in his Royal Confort make the Ki<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Nurſing Father, and the Queen
+a Nurſing Mother Con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ound all
+hatred, malice and envy all evil ſpeak<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> every thing that is contrary to ſound Doctrine, and give thy
+people that live, under him to <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ew
+that <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>
+                              <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>fulneſs and reſpect as becomes
+Chriſtians and as becomes Loyal Subjects, Bleſs the Clergy, by wha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>ever Names or Titles diſtinguiſhed, make them
+ſound in their Doctrine, and make them uſeful and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> blameable in their Lives and
+converſations, help them to mind the Souls committed to their Cha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> and help them to do their duty that
+they may be able to ſay behold here are we and the Children wh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> thou haſt given us; now Lord bleſs
+all the Nation from the higheſt to the loweſt from the Prince to
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eaſant of all ſorts ranks and
+degrees. Give Loyalty towards our dread Soveraign, who is a merciful a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> gracious Prince, whom thou ha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> ſet as thy Vicegerent to Reign over us who can do
+nothing but wh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> is juſt and equal
+before thee to whom he muſt give an account of all his Tranſactions even to
+thee <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> King of Kings. And Lord
+grant peace and love and unity one among another and the practical obſer<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>tion of thy holy day, and thoſe
+duties that relate to God and man, Grant that thoſe that follow after
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> may take particuler Example by
+us. We muſt needs acknowledge and ſmite upon our thighs, that we
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Juſtice are brought hither,
+that we having nothing to do but to condemn our ſelves, and juſtifie the
+j<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>ice of all the Land, and to pray
+God to bleſs his Majeſtie to Reign in theſe Nations and thoſe that
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> ſucceed him upon the Throne.
+All which we beg upon the account of our Lord Jeſus Chriſt, who
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> dead and behold he lives, to
+whom with thy ſelf and eternal Spirit, we deſire to aſcribe, as is due.
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> honour praiſe and glory
+everlaſting. Amen.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <head>There was theſe Liues more in the Paper delivered by
+<hi>Captain Walcot,</hi> than what you have before ſeen.</head>
+            <p>AS to <hi>Ireland,</hi> I am very inclinable to believe, could I
+have charged anybody there with being Engag<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the matter for which I ſuffer, I might have had my life but by
+the bleſſing of God, I will Charge
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man wrongfully, no not to
+ſave my life and theſe being ſome of the laſt words I am to ſpeak, I
+do aver<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knew not an Engliſh man,
+or Proteſtant in <hi>Ireland</hi> any way ingaged in it. Beſides I was told
+they th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were moſtly concerned,
+did not value <hi>Ireland,</hi> and ſaid it muſt of courſe follow
+<hi>England.</hi> Something I hea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+of one Gentleman in the North, and whether it be true or falſe I will not
+determine.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35812:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
